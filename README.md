@@ -65,26 +65,25 @@ Certifique-se de consultar esses recursos para obter informações detalhadas so
 
 ## 7. Telas
 
+### 1. Tela do Frontend
 ![01-frontend](img/01-frontend.png)
-1. Tela do Frontend
 
+### 2. Rota inicial do backend ('/')
 ![02-backend](img/02-backend.png)
-2. Rota inicial do backend ('/')
 
+### 3. Rota da documentação Swagger ('/api-docs')
 ![03-swagger-docs](img/03-swagger-docs.png)
-3. Rota da documentação Swagger ('/api-docs')
 
+### 4. Rota com todos os registros de lançamentos ('/launches')
 ![04-launches-allLaunches](img/04-launches-allLaunches.png)
-4. Rota com todos os registros de lançamentos ('/launches')
 
+### 5. Rota com todos os registros de paginação de lançamentos ('/launches')
 ![05-launches-paginationData](img/05-launches-paginationData.png)
-5. Rota com todos os registros de paginação de lançamentos ('/launches')
 
+### 6. Rota com estatisticas de missões e lançamentos ('/launches')
 ![07-launches-stats](img/07-launches-stats.png)
-6. Rota com estatisticas de missões e lançamentos ('/launches')
 
+### 7. Rota com filtros de registros de lançamentos ('/launches?limit=100&page=2&success=true')
 ![06-launches-withFilters](img/06-launches-withFilters.png)
-7. Rota com filtros de registros de lançamentos ('/launches?limit=100&page=2&success=true')
-
 
 ### This is a challenge by Coodesh
