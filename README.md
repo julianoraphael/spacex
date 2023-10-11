@@ -63,4 +63,28 @@ Para obter mais informações sobre as rotas da aplicação e outros detalhes, c
 
 Certifique-se de consultar esses recursos para obter informações detalhadas sobre o funcionamento da aplicação e como interagir com ela.
 
+## 7. Telas
+
+![01-frontend](img/01-frontend.png)
+1. Tela do Frontend
+
+![02-backend](img/02-backend.png)
+2. Rota inicial do backend ('/')
+
+![03-swagger-docs](img/03-swagger-docs.png)
+3. Rota da documentação Swagger ('/api-docs')
+
+![04-launches-allLaunches](img/04-launches-allLaunches.png)
+4. Rota com todos os registros de lançamentos ('/launches')
+
+![05-launches-paginationData](img/05-launches-paginationData.png)
+5. Rota com todos os registros de paginação de lançamentos ('/launches')
+
+![07-launches-stats](img/07-launches-stats.png)
+6. Rota com estatisticas de missões e lançamentos ('/launches')
+
+![06-launches-withFilters](img/06-launches-withFilters.png)
+7. Rota com filtros de registros de lançamentos ('/launches?limit=100&page=2&success=true')
+
+
 ### This is a challenge by Coodesh
