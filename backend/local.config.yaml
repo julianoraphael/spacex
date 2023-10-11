@@ -1,0 +1,16 @@
+# Configurações para o aplicativo Node.js
+node_app:
+  host: localhost
+  port: 3000
+
+# Configurações do banco de dados
+database:
+  url: mongodb+srv://julianoraphael:2QeZsvDOg6I32nHH@cluster0.ehwclk6.mongodb.net/?retryWrites=true&w=majority
+
+# Configurações do aplicativo React
+react_app:
+  api_url: http://localhost:3000/api
+
+# Outras configurações
+outras_configuracoes:
+  chave_secreta: minha_chave_secreta

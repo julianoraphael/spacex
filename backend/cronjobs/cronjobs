@@ -1,0 +1,4 @@
+# Configuração do cron para executar os scripts nos horários especificados
+0 9 * * * /app/data_updater.sh
+1 9 * * * /app/data_uploader.sh
+
