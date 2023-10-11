@@ -86,4 +86,3 @@ Certifique-se de consultar esses recursos para obter informações detalhadas so
 ### 7. Rota com filtros de registros de lançamentos ('/launches?limit=100&page=2&success=true')
 ![06-launches-withFilters](img/06-launches-withFilters.png)
 
-### This is a challenge by Coodesh

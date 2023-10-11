@@ -93,4 +93,3 @@ Exemplo de pesquisa com limite e página:
 
 /launches/stats: Rota que fornece estatísticas sobre os lançamentos da SpaceX.
 
-### This is a challenge by Coodesh

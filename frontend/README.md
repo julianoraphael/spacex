@@ -64,4 +64,3 @@ docker build -t spacex-frontend .
 docker run -p 3001:3000 spacex-frontend
 ```
 
-### This is a challenge by Coodesh
